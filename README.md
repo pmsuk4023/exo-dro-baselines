@@ -1,6 +1,6 @@
 # W-DRO & KL-DRO Baselines
 
-Causal DRO 연구의 baseline 비교 실험을 위한
+baseline 비교 실험을 위한
 Wasserstein DRO (W-DRO)와 KL-DRO 구현입니다.
 
 공통 prediction model은 다음 MLP 구조를 사용합니다.
