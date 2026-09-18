@@ -1,0 +1,8 @@
+.vscode/
+external/
+*.pt
+*.pth
+*.zip
+__pycache__/
+*.pyc
+desktop.ini
